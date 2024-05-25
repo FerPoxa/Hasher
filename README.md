@@ -11,4 +11,3 @@ Python script to perform a lookup on a hash
         · Can I use it on my machine?
             Right now the script works both on Linux and Windows, so ahead and give it a try
     </ul>
-</li>
