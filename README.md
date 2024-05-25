@@ -1,7 +1,6 @@
 # Hasher
 Python script to perform a lookup on a hash 
 <br/>
-<li>
     <ul>
     · Where does it get info from?
         It uses the API that https://www.circl.lu/ provides
